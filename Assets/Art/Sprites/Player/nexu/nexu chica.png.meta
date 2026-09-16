@@ -94,7 +94,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,7 +134,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -172,441 +172,441 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nexu_quieta_delante
+      name: nexu chica_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 491
-        width: 93
+        x: 63
+        y: 492
+        width: 91
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6222195587809f6c9fa817719363d28
+      internalID: -889076873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 490
+        width: 91
         height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d3c7a8308bf40af0800000000000000
-      internalID: -430943136195820587
+      spriteID: ad80a1a43b20d51ab8b3d83108d1b5a0
+      internalID: 1393459566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_delante_1
+      name: nexu chica_2
       rect:
         serializedVersion: 2
-        x: 240
-        y: 489
-        width: 93
-        height: 123
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 400
+        y: 492
+        width: 91
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6c3d73c8862807e00800000000000000
-      internalID: 1040474899463263174
+      spriteID: 9c89d9093f85c99d8a177b3a3cfc2d17
+      internalID: -1590163667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_delante_2
+      name: nexu chica_3
       rect:
         serializedVersion: 2
-        x: 399
-        y: 491
-        width: 93
+        x: 559
+        y: 487
+        width: 91
         height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e208a0256822252d0800000000000000
-      internalID: -3291530417357029330
+      spriteID: 0ea45fd0d60d59636a9d3be2467a8f9c
+      internalID: 2072385191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_delante_3
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 486
-        width: 93
-        height: 123
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e3b55596b4005040800000000000000
-      internalID: 4634209198800221157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_delante_4
-      rect:
-        serializedVersion: 2
-        x: 702
-        y: 491
-        width: 93
-        height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7136c4f9ba2770690800000000000000
-      internalID: -7636008561745829097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_quieta_atras
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 344
-        width: 93
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07cd54ca1cea26760800000000000000
-      internalID: 7449708880466402416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_atras_1
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 342
-        width: 93
-        height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b256b9973fb736690800000000000000
-      internalID: -7610102659678509781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_atras_2
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 344
-        width: 93
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a920d47550c5fd60800000000000000
-      internalID: 7923450592692808102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_atras_3
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 342
-        width: 93
-        height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 577fd6c26893200f0800000000000000
-      internalID: -1152295306219620491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_atras_4
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 344
-        width: 93
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 780587718749120d0800000000000000
-      internalID: -3449312596078342009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_quieta_izq
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 184
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d819448dda584ec0800000000000000
-      internalID: -3582513596119574317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_izq_1
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 184
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c85651167c964bdd0800000000000000
-      internalID: -2471233990471359092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_izq_2
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 184
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f97eee77adaca780800000000000000
-      internalID: -8670364247694345739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_izq_3
-      rect:
-        serializedVersion: 2
-        x: 555
-        y: 184
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d6bc96b38b9e0db0800000000000000
-      internalID: -4823747160860477736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nexu_camina_izq_4
+      name: nexu chica_4
       rect:
         serializedVersion: 2
         x: 703
-        y: 184
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 492
+        width: 91
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d23bd7e070f6e360800000000000000
-      internalID: 7198705422115222226
+      spriteID: 1f65dfe6bf5f376fabc7db64e40327a4
+      internalID: -1131475222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_quieta_drch
+      name: nexu chica_5
       rect:
         serializedVersion: 2
-        x: 62
-        y: 38
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 63
+        y: 345
+        width: 91
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eaeb2ba98c369d4d0800000000000000
-      internalID: -3109344354482602322
+      spriteID: f2dacbece254907a993aafa084211d1d
+      internalID: 1164310008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_drch_1
+      name: nexu chica_6
       rect:
         serializedVersion: 2
-        x: 237
-        y: 38
-        width: 89
+        x: 239
+        y: 343
+        width: 91
         height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e1682cea85d144e0800000000000000
-      internalID: -1999081966931516958
+      spriteID: 8880f2af6d202e718998fd8c95185c19
+      internalID: 1859920639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_drch_2
+      name: nexu chica_7
       rect:
         serializedVersion: 2
-        x: 405
-        y: 38
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 403
+        y: 345
+        width: 91
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24227d8c658c38af0800000000000000
-      internalID: -395252067216186814
+      spriteID: 1a0bc2310a4ffd41aaa2e702538ac0d9
+      internalID: -1231098350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_drch_3
+      name: nexu chica_8
       rect:
         serializedVersion: 2
-        x: 558
-        y: 38
-        width: 89
+        x: 554
+        y: 343
+        width: 91
         height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 848c0a0cc3d44a460800000000000000
-      internalID: 7252006223298480200
+      spriteID: d8aa3dbe3a932400bbc6cb1d9fb39092
+      internalID: 72458140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nexu_camina_drch_4
+      name: nexu chica_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 345
+        width: 91
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b78ff5aeed66e49a8bf8c72f2993c1
+      internalID: 1313178982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 185
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126718085597868f18ad529f5196b592
+      internalID: 4729936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 185
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16220e2a9b549f915976ddeca9cac3c3
+      internalID: -1319399673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6527c6f9f883b6c489f1fa96b863e20b
+      internalID: -165320502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 185
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c1c2c405af69955ab72d84a1689898
+      internalID: 1486431273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_14
       rect:
         serializedVersion: 2
         x: 704
-        y: 38
-        width: 89
-        height: 122
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 185
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2373e7fcec4a027b0800000000000000
-      internalID: -5251015957362624718
+      spriteID: df79965aa7db3cb44bae5109af719655
+      internalID: 1685508397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 39
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b65cb846e82ae3b1f755d46afc98c
+      internalID: 2090783642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_16
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 39
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0561cc7ba2dc6cb710660e0280092
+      internalID: -248181032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 39
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6061f0c64ab1893db19c5f3ae471621
+      internalID: -305885562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 39
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc98d9562e4fbd6599e7b6bd0d186fa
+      internalID: 2017947631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nexu chica_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 39
+        width: 87
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222bc234249295a28e346ca63edb034
+      internalID: 1826675985
       vertices: []
       indices: 
       edges: []
@@ -623,28 +623,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      nexu_camina_atras_1: -7610102659678509781
-      nexu_camina_atras_2: 7923450592692808102
-      nexu_camina_atras_3: -1152295306219620491
-      nexu_camina_atras_4: -3449312596078342009
-      nexu_camina_delante_1: 1040474899463263174
-      nexu_camina_delante_2: -3291530417357029330
-      nexu_camina_delante_3: 4634209198800221157
-      nexu_camina_delante_4: -7636008561745829097
-      nexu_camina_drch_1: -1999081966931516958
-      nexu_camina_drch_2: -395252067216186814
-      nexu_camina_drch_3: 7252006223298480200
-      nexu_camina_drch_4: -5251015957362624718
-      nexu_camina_izq_1: -2471233990471359092
-      nexu_camina_izq_2: -8670364247694345739
-      nexu_camina_izq_3: -4823747160860477736
-      nexu_camina_izq_4: 7198705422115222226
-      nexu_quieta_atras: 7449708880466402416
-      nexu_quieta_delante: -430943136195820587
-      nexu_quieta_drch: -3109344354482602322
-      nexu_quieta_izq: -3582513596119574317
+      nexu chica_0: -889076873
+      nexu chica_1: 1393459566
+      nexu chica_10: 4729936
+      nexu chica_11: -1319399673
+      nexu chica_12: -165320502
+      nexu chica_13: 1486431273
+      nexu chica_14: 1685508397
+      nexu chica_15: 2090783642
+      nexu chica_16: -248181032
+      nexu chica_17: -305885562
+      nexu chica_18: 2017947631
+      nexu chica_19: 1826675985
+      nexu chica_2: -1590163667
+      nexu chica_3: 2072385191
+      nexu chica_4: -1131475222
+      nexu chica_5: 1164310008
+      nexu chica_6: 1859920639
+      nexu chica_7: -1231098350
+      nexu chica_8: 72458140
+      nexu chica_9: 1313178982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
