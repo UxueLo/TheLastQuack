@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -114,7 +114,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 36
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -140,7 +140,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -178,485 +178,485 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 9 - mesa escritorio_0
+      name: tilemap_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 465
-        width: 69
-        height: 75
+        x: 24
+        y: 466
+        width: 67
+        height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4130845d97e9cee60800000000000000
-      internalID: 7992937684782285588
+      spriteID: a629b72dde3015bd385a822834577429
+      internalID: -1565106429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_1
+      name: tilemap_1
       rect:
         serializedVersion: 2
-        x: 111
-        y: 465
-        width: 76
-        height: 76
+        x: 112
+        y: 466
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0733be08c8fcbfdd0800000000000000
-      internalID: -2451137369807834256
+      spriteID: 3ad41ac91bb7cbfc8b9dd7809185931a
+      internalID: -1335765609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_2
+      name: tilemap_2
       rect:
         serializedVersion: 2
-        x: 204
-        y: 465
-        width: 76
-        height: 76
+        x: 205
+        y: 466
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ea585cc570c4eafb0800000000000000
-      internalID: -4634683372012730962
+      spriteID: 8c5d36736614e2b12afec7df4099ee69
+      internalID: -1926967744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_3
+      name: tilemap_3
       rect:
         serializedVersion: 2
-        x: 297
-        y: 465
-        width: 77
-        height: 76
+        x: 298
+        y: 466
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dd00439542a04e990800000000000000
-      internalID: -7357744739984867107
+      spriteID: 483da0fb2709646d7a0795cc156fd9e2
+      internalID: 714698308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_4
+      name: tilemap_4
       rect:
         serializedVersion: 2
-        x: 390
-        y: 465
-        width: 77
-        height: 76
+        x: 391
+        y: 466
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ee7db262ba6a1ddd0800000000000000
-      internalID: -2463004267184924690
+      spriteID: 5f692e7cb7b45c52cadd812208886f3e
+      internalID: 360599126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_5
+      name: tilemap_5
       rect:
         serializedVersion: 2
-        x: 483
-        y: 465
-        width: 77
-        height: 76
+        x: 484
+        y: 466
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d88d487d9dfbbb680800000000000000
-      internalID: -8738179709637699443
+      spriteID: 53ff07033d4f1ef3eb9b2fbd808971c8
+      internalID: 784282108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_6
+      name: tilemap_6
       rect:
         serializedVersion: 2
-        x: 577
-        y: 465
-        width: 77
-        height: 76
+        x: 578
+        y: 466
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4991cf48d027bb50800000000000000
-      internalID: 6608787091612604748
+      spriteID: 8e7592b323b7e5b0eaa09254b1d0ec57
+      internalID: -1016653705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_7
+      name: tilemap_7
       rect:
         serializedVersion: 2
-        x: 670
-        y: 465
-        width: 76
-        height: 76
+        x: 671
+        y: 466
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 014c04ad7efca1be0800000000000000
-      internalID: -1505662530695937008
+      spriteID: d528924010ee65cff91f121f57c9284f
+      internalID: -1579880082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_8
+      name: tilemap_8
       rect:
         serializedVersion: 2
-        x: 763
-        y: 465
-        width: 76
-        height: 76
+        x: 764
+        y: 466
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 989a8ef549ccc4f90800000000000000
-      internalID: -6967969585812690551
+      spriteID: 2d3d1fcbba40c97fe8ebfc906baee49e
+      internalID: 708580625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_9
+      name: tilemap_9
       rect:
         serializedVersion: 2
-        x: 856
-        y: 465
-        width: 76
-        height: 71
+        x: 857
+        y: 466
+        width: 74
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43df27e2d683008a0800000000000000
-      internalID: -6341006233755779788
+      spriteID: e0bd31bdb952dbccc8bc0f8befd95762
+      internalID: -819962369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_10
+      name: tilemap_10
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
+        y: 374
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599fbf36c899f4642a299d87a6a69c2f
+      internalID: 1750637557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 136
         y: 373
-        width: 69
-        height: 75
+        width: 27
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e133f98b673185c60800000000000000
-      internalID: 7807011354671264542
+      spriteID: 7f2124e4a416bf475b3a100c5eb12297
+      internalID: 342083325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_11
+      name: tilemap_12
       rect:
         serializedVersion: 2
-        x: 135
-        y: 372
-        width: 29
-        height: 76
+        x: 205
+        y: 373
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: abfa902a430f68940800000000000000
-      internalID: 5298186120495476666
+      spriteID: c9b69a7221fa7f882b9a62540cf62bc2
+      internalID: 919866500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_12
+      name: tilemap_13
       rect:
         serializedVersion: 2
-        x: 204
-        y: 372
-        width: 76
-        height: 76
+        x: 298
+        y: 373
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99e06d8e1cb78fff0800000000000000
-      internalID: -2115727048438119
+      spriteID: 1441b20496ca1957090fa850e4359fab
+      internalID: 1694505658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_13
+      name: tilemap_14
       rect:
         serializedVersion: 2
-        x: 297
-        y: 372
-        width: 77
-        height: 76
+        x: 391
+        y: 373
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1fc6983f0dc5f03c0800000000000000
-      internalID: -4391189059154121487
+      spriteID: c41d862ac83d26a50a0a8380a81eb287
+      internalID: -864385926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_14
+      name: tilemap_15
       rect:
         serializedVersion: 2
-        x: 390
-        y: 372
-        width: 77
-        height: 76
+        x: 484
+        y: 373
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 699dcb4dd28d2d530800000000000000
-      internalID: 3878399920473692566
+      spriteID: 27dbd2c98c3ef90db966d6d1d03fd6a3
+      internalID: -72197120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_15
+      name: tilemap_16
       rect:
         serializedVersion: 2
-        x: 483
-        y: 372
-        width: 77
-        height: 76
+        x: 578
+        y: 373
+        width: 75
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3bf74ed6f2022a860800000000000000
-      internalID: 7539624114250874803
+      spriteID: f1f1a5bcf1424f4e4afdbd29963ab77c
+      internalID: -795745359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_16
+      name: tilemap_17
       rect:
         serializedVersion: 2
-        x: 577
-        y: 372
-        width: 77
-        height: 76
+        x: 671
+        y: 373
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b5749256db0d43260800000000000000
-      internalID: 7076510426370492251
+      spriteID: e7ef2ccd52de35994972935d176b34fc
+      internalID: 2121517094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_17
+      name: tilemap_18
       rect:
         serializedVersion: 2
-        x: 670
-        y: 372
-        width: 76
-        height: 76
+        x: 764
+        y: 373
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 218ff8110d1c4f5c0800000000000000
-      internalID: -4182505054528341998
+      spriteID: 9e099b40e9f65820d9bea9e118628bcc
+      internalID: -191074133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_18
+      name: tilemap_19
       rect:
         serializedVersion: 2
-        x: 763
-        y: 372
-        width: 76
-        height: 76
+        x: 857
+        y: 373
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75537235a77597b40800000000000000
-      internalID: 5438474207919289687
+      spriteID: 729de440fafbe9d228b7594ef35c419e
+      internalID: 1137408177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_19
+      name: tilemap_20
       rect:
         serializedVersion: 2
-        x: 856
-        y: 372
-        width: 76
-        height: 76
+        x: 32
+        y: 280
+        width: 48
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9901cb5e86179900800000000000000
-      internalID: 691045868505205146
+      spriteID: bdeb1eb9fc90a534d87285c04462a234
+      internalID: -1991728067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9 - mesa escritorio_20
+      name: tilemap_21
       rect:
         serializedVersion: 2
-        x: 31
-        y: 279
-        width: 50
-        height: 76
+        x: 112
+        y: 280
+        width: 74
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 223005025e9f0b740800000000000000
-      internalID: 5165903535078900514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 9 - mesa escritorio_21
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 279
-        width: 76
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2503134f27e23530800000000000000
-      internalID: 3833380423020512557
+      spriteID: c9f5ba5d7902c264091078b82ee0d899
+      internalID: -39751423
       vertices: []
       indices: 
       edges: []
@@ -665,7 +665,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8c96afe7ddd3ad43cbb8bbbd3289c53c
     internalID: 0
     vertices: []
     indices: 
@@ -673,30 +673,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      9 - mesa escritorio_0: 7992937684782285588
-      9 - mesa escritorio_1: -2451137369807834256
-      9 - mesa escritorio_10: 7807011354671264542
-      9 - mesa escritorio_11: 5298186120495476666
-      9 - mesa escritorio_12: -2115727048438119
-      9 - mesa escritorio_13: -4391189059154121487
-      9 - mesa escritorio_14: 3878399920473692566
-      9 - mesa escritorio_15: 7539624114250874803
-      9 - mesa escritorio_16: 7076510426370492251
-      9 - mesa escritorio_17: -4182505054528341998
-      9 - mesa escritorio_18: 5438474207919289687
-      9 - mesa escritorio_19: 691045868505205146
-      9 - mesa escritorio_2: -4634683372012730962
-      9 - mesa escritorio_20: 5165903535078900514
-      9 - mesa escritorio_21: 3833380423020512557
-      9 - mesa escritorio_3: -7357744739984867107
-      9 - mesa escritorio_4: -2463004267184924690
-      9 - mesa escritorio_5: -8738179709637699443
-      9 - mesa escritorio_6: 6608787091612604748
-      9 - mesa escritorio_7: -1505662530695937008
-      9 - mesa escritorio_8: -6967969585812690551
-      9 - mesa escritorio_9: -6341006233755779788
+      tilemap_0: -1565106429
+      tilemap_1: -1335765609
+      tilemap_10: 1750637557
+      tilemap_11: 342083325
+      tilemap_12: 919866500
+      tilemap_13: 1694505658
+      tilemap_14: -864385926
+      tilemap_15: -72197120
+      tilemap_16: -795745359
+      tilemap_17: 2121517094
+      tilemap_18: -191074133
+      tilemap_19: 1137408177
+      tilemap_2: -1926967744
+      tilemap_20: -1991728067
+      tilemap_21: -39751423
+      tilemap_3: 714698308
+      tilemap_4: 360599126
+      tilemap_5: 784282108
+      tilemap_6: -1016653705
+      tilemap_7: -1579880082
+      tilemap_8: 708580625
+      tilemap_9: -819962369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
