@@ -41,9 +41,6 @@ TagManager:
   - name: Floor
     uniqueID: 1124797139
     locked: 0
-  - name: BackGround
-    uniqueID: 3037527141
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
