@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 6425cc58da9700844b8f84a192a2677a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7992937684782285588
+    second: 9 - mesa escritorio_0
+  - first:
+      213: -2451137369807834256
+    second: 9 - mesa escritorio_1
+  - first:
+      213: -4634683372012730962
+    second: 9 - mesa escritorio_2
+  - first:
+      213: -7357744739984867107
+    second: 9 - mesa escritorio_3
+  - first:
+      213: -2463004267184924690
+    second: 9 - mesa escritorio_4
+  - first:
+      213: -8738179709637699443
+    second: 9 - mesa escritorio_5
+  - first:
+      213: 6608787091612604748
+    second: 9 - mesa escritorio_6
+  - first:
+      213: -1505662530695937008
+    second: 9 - mesa escritorio_7
+  - first:
+      213: -6967969585812690551
+    second: 9 - mesa escritorio_8
+  - first:
+      213: -6341006233755779788
+    second: 9 - mesa escritorio_9
+  - first:
+      213: 7807011354671264542
+    second: 9 - mesa escritorio_10
+  - first:
+      213: 5298186120495476666
+    second: 9 - mesa escritorio_11
+  - first:
+      213: -2115727048438119
+    second: 9 - mesa escritorio_12
+  - first:
+      213: -4391189059154121487
+    second: 9 - mesa escritorio_13
+  - first:
+      213: 3878399920473692566
+    second: 9 - mesa escritorio_14
+  - first:
+      213: 7539624114250874803
+    second: 9 - mesa escritorio_15
+  - first:
+      213: 7076510426370492251
+    second: 9 - mesa escritorio_16
+  - first:
+      213: -4182505054528341998
+    second: 9 - mesa escritorio_17
+  - first:
+      213: 5438474207919289687
+    second: 9 - mesa escritorio_18
+  - first:
+      213: 691045868505205146
+    second: 9 - mesa escritorio_19
+  - first:
+      213: 5165903535078900514
+    second: 9 - mesa escritorio_20
+  - first:
+      213: 3833380423020512557
+    second: 9 - mesa escritorio_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 465
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130845d97e9cee60800000000000000
+      internalID: 7992937684782285588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 465
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733be08c8fcbfdd0800000000000000
+      internalID: -2451137369807834256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 465
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea585cc570c4eafb0800000000000000
+      internalID: -4634683372012730962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 465
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00439542a04e990800000000000000
+      internalID: -7357744739984867107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 465
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7db262ba6a1ddd0800000000000000
+      internalID: -2463004267184924690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 465
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88d487d9dfbbb680800000000000000
+      internalID: -8738179709637699443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 465
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4991cf48d027bb50800000000000000
+      internalID: 6608787091612604748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 465
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c04ad7efca1be0800000000000000
+      internalID: -1505662530695937008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 465
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989a8ef549ccc4f90800000000000000
+      internalID: -6967969585812690551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 465
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43df27e2d683008a0800000000000000
+      internalID: -6341006233755779788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 373
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133f98b673185c60800000000000000
+      internalID: 7807011354671264542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 372
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa902a430f68940800000000000000
+      internalID: 5298186120495476666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 372
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e06d8e1cb78fff0800000000000000
+      internalID: -2115727048438119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 372
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc6983f0dc5f03c0800000000000000
+      internalID: -4391189059154121487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 372
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699dcb4dd28d2d530800000000000000
+      internalID: 3878399920473692566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 372
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf74ed6f2022a860800000000000000
+      internalID: 7539624114250874803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 372
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5749256db0d43260800000000000000
+      internalID: 7076510426370492251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 372
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ff8110d1c4f5c0800000000000000
+      internalID: -4182505054528341998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 372
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75537235a77597b40800000000000000
+      internalID: 5438474207919289687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 372
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9901cb5e86179900800000000000000
+      internalID: 691045868505205146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 279
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223005025e9f0b740800000000000000
+      internalID: 5165903535078900514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 - mesa escritorio_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 279
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2503134f27e23530800000000000000
+      internalID: 3833380423020512557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      9 - mesa escritorio_0: 7992937684782285588
+      9 - mesa escritorio_1: -2451137369807834256
+      9 - mesa escritorio_10: 7807011354671264542
+      9 - mesa escritorio_11: 5298186120495476666
+      9 - mesa escritorio_12: -2115727048438119
+      9 - mesa escritorio_13: -4391189059154121487
+      9 - mesa escritorio_14: 3878399920473692566
+      9 - mesa escritorio_15: 7539624114250874803
+      9 - mesa escritorio_16: 7076510426370492251
+      9 - mesa escritorio_17: -4182505054528341998
+      9 - mesa escritorio_18: 5438474207919289687
+      9 - mesa escritorio_19: 691045868505205146
+      9 - mesa escritorio_2: -4634683372012730962
+      9 - mesa escritorio_20: 5165903535078900514
+      9 - mesa escritorio_21: 3833380423020512557
+      9 - mesa escritorio_3: -7357744739984867107
+      9 - mesa escritorio_4: -2463004267184924690
+      9 - mesa escritorio_5: -8738179709637699443
+      9 - mesa escritorio_6: 6608787091612604748
+      9 - mesa escritorio_7: -1505662530695937008
+      9 - mesa escritorio_8: -6967969585812690551
+      9 - mesa escritorio_9: -6341006233755779788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
