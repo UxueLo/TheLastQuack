@@ -56,6 +56,9 @@ TagManager:
   - name: Entities
     uniqueID: 1176970491
     locked: 0
+  - name: Higher Furniture
+    uniqueID: 4157577953
+    locked: 0
   - name: UI
     uniqueID: 3444999379
     locked: 0
