@@ -15,6 +15,8 @@ public class Nexu : MonoBehaviour
     private Vector2 moveInput;
     private Vector2 lastMoveInput = new Vector2(0f, -1f);
 
+      private bool lastInputWasHorizontal;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -35,11 +37,40 @@ public class Nexu : MonoBehaviour
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
 
-        moveInput = new Vector2(inputX, inputY).normalized;
+        //definir el movimiento para que se evite los movimiento diagonales
+        bool horizontalPressed = Input.GetButtonDown("Horizontal");
+        bool verticalPressed = Input.GetButtonDown("Vertical");
+
+        if (horizontalPressed)
+        {
+            lastInputWasHorizontal = true;
+        }
+        else if (verticalPressed)
+        {
+            lastInputWasHorizontal = false;
+        }
+
+        if (inputX != 0f && inputY != 0f)
+        {
+            if (lastInputWasHorizontal)
+            {
+                moveInput = new Vector2(inputX, 0f);
+            }
+            else
+            {
+                moveInput = new Vector2(0f, inputY);
+            }
+        }
+        else
+        {
+            moveInput = new Vector2(inputX, inputY);
+        }
+
 
         //Girar el personaje a izquierda o derecha
         if(moveInput != Vector2.zero)
         {
+           moveInput = moveInput.normalized;
             lastMoveInput = moveInput;
         }
 
