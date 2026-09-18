@@ -50,6 +50,9 @@ TagManager:
   - name: Furniture
     uniqueID: 1841928595
     locked: 0
+  - name: Wall decoration
+    uniqueID: 1486535957
+    locked: 0
   - name: Entities
     uniqueID: 1176970491
     locked: 0
