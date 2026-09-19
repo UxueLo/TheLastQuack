@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PracticeScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MainMenu.unity
+    guid: f33754d263962205b8a9ddf6c52e5398
+  - enabled: 1
+    path: Assets/Scenes/NexuRoom.unity
+    guid: ab7c3ae408931111b861b242a190a20a
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 9d1a301f7294bad35a2612f0ef2b0721
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
