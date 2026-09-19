@@ -33,7 +33,7 @@ public class Nexu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Recoher datos de teclado
+        //Recoger datos de teclado
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
 
