@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: dff84d68efa63e74aa4a2b5491ae1726
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8016360865277317033
+    second: 10 armario_0
+  - first:
+      213: -6148367831161461133
+    second: 10 armario_1
+  - first:
+      213: -6375751838367021282
+    second: 10 armario_2
+  - first:
+      213: 5423581392110112562
+    second: 10 armario_3
+  - first:
+      213: 3750879340290320396
+    second: 10 armario_4
+  - first:
+      213: 7234750015149733630
+    second: 10 armario_5
+  - first:
+      213: 5658352733996578513
+    second: 10 armario_6
+  - first:
+      213: -7073420552827398627
+    second: 10 armario_7
+  - first:
+      213: 7715281795871754170
+    second: 10 armario_8
+  - first:
+      213: 1545982355506127439
+    second: 10 armario_9
+  - first:
+      213: -8141091863692792354
+    second: 10 armario_10
+  - first:
+      213: 4618233625784609297
+    second: 10 armario_11
+  - first:
+      213: -7399003253314104758
+    second: 10 armario_12
+  - first:
+      213: -9203193163227136961
+    second: 10 armario_13
+  - first:
+      213: 951358296588692885
+    second: 10 armario_14
+  - first:
+      213: 8836899580485547800
+    second: 10 armario_15
+  - first:
+      213: -2514302787614117545
+    second: 10 armario_16
+  - first:
+      213: 6058532748527375099
+    second: 10 armario_17
+  - first:
+      213: -141155769672709880
+    second: 10 armario_18
+  - first:
+      213: 7039029542485107927
+    second: 10 armario_19
+  - first:
+      213: 2412161771393413844
+    second: 10 armario_20
+  - first:
+      213: -1448739932826870078
+    second: 10 armario_21
+  - first:
+      213: 7705581226337467684
+    second: 10 armario_22
+  - first:
+      213: -6093390933733777140
+    second: 10 armario_23
+  - first:
+      213: 5017397506408498188
+    second: 10 armario_24
+  - first:
+      213: 1139494377639366427
+    second: 10 armario_25
+  - first:
+      213: 6035969819038372213
+    second: 10 armario_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10 armario_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 466
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507dc9f34a20c090800000000000000
+      internalID: -8016360865277317033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ae23780c9caaa0800000000000000
+      internalID: -6148367831161461133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 465
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e170712bb77c487a0800000000000000
+      internalID: -6375751838367021282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f442f6a8e644b40800000000000000
+      internalID: 5423581392110112562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c082b5113eccd0430800000000000000
+      internalID: 3750879340290320396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef670c3becef66460800000000000000
+      internalID: 7234750015149733630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f9b315d1868e40800000000000000
+      internalID: 5658352733996578513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1696c9db7926dd90800000000000000
+      internalID: -7073420552827398627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab749f08aef221b60800000000000000
+      internalID: 7715281795871754170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e6f8e2ce647510800000000000000
+      internalID: 1545982355506127439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda4c45518050f80800000000000000
+      internalID: -8141091863692792354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 373
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae7a2a303471040800000000000000
+      internalID: 4618233625784609297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 372
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42d0422eb5715990800000000000000
+      internalID: -7399003253314104758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 372
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cfa822490b74080800000000000000
+      internalID: -9203193163227136961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 373
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2a4a8457e33d00800000000000000
+      internalID: 951358296588692885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b3aa3959f2aa70800000000000000
+      internalID: 8836899580485547800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7517c7e9fe66b1dd0800000000000000
+      internalID: -2514302787614117545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf29b007f6b341450800000000000000
+      internalID: 6058532748527375099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_18
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80949aa43938a0ef0800000000000000
+      internalID: -141155769672709880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_19
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d42e431318afa160800000000000000
+      internalID: 7039029542485107927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27ea4d958b97120800000000000000
+      internalID: 2412161771393413844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 280
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5ee3f4ba05ebe0800000000000000
+      internalID: -1448739932826870078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 280
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d73c7ac49bfea60800000000000000
+      internalID: 7705581226337467684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 280
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01663dda3def6ba0800000000000000
+      internalID: -6093390933733777140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_24
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 280
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04c862e27061a540800000000000000
+      internalID: 5017397506408498188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 187
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fcfb2691c40df00800000000000000
+      internalID: 1139494377639366427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10 armario_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 187
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d2ca029214c350800000000000000
+      internalID: 6035969819038372213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cde36c5012dcba47b1496f50a68f963
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      10 armario_0: -8016360865277317033
+      10 armario_1: -6148367831161461133
+      10 armario_10: -8141091863692792354
+      10 armario_11: 4618233625784609297
+      10 armario_12: -7399003253314104758
+      10 armario_13: -9203193163227136961
+      10 armario_14: 951358296588692885
+      10 armario_15: 8836899580485547800
+      10 armario_16: -2514302787614117545
+      10 armario_17: 6058532748527375099
+      10 armario_18: -141155769672709880
+      10 armario_19: 7039029542485107927
+      10 armario_2: -6375751838367021282
+      10 armario_20: 2412161771393413844
+      10 armario_21: -1448739932826870078
+      10 armario_22: 7705581226337467684
+      10 armario_23: -6093390933733777140
+      10 armario_24: 5017397506408498188
+      10 armario_25: 1139494377639366427
+      10 armario_26: 6035969819038372213
+      10 armario_3: 5423581392110112562
+      10 armario_4: 3750879340290320396
+      10 armario_5: 7234750015149733630
+      10 armario_6: 5658352733996578513
+      10 armario_7: -7073420552827398627
+      10 armario_8: 7715281795871754170
+      10 armario_9: 1545982355506127439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
