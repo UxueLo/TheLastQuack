@@ -1351,7 +1351,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.022539139, y: 1.6449461}
+  m_Offset: {x: -0.022539139, y: 1.3456686}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -1361,7 +1361,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.3557792, y: 3.2288122}
+  m_Size: {x: 2.3557792, y: 0.66357803}
   m_EdgeRadius: 0
 --- !u!114 &627477953
 MonoBehaviour:
@@ -1960,7 +1960,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.46908712, y: 7.365022}
+  m_Offset: {x: -0.48191357, y: 7.4932837}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1970,7 +1970,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.9383364, y: 1.3722296}
+  m_Size: {x: 1.1179028, y: 1.1157064}
   m_EdgeRadius: 0
 --- !u!114 &942456521
 MonoBehaviour:
@@ -3089,7 +3089,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.39608335, y: 1.5196431}
+  m_Offset: {x: 0.42173553, y: 1.6863835}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3099,7 +3099,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.2459211, y: 2.1068978}
+  m_Size: {x: 2.9380927, y: 1.7221127}
   m_EdgeRadius: 0
 --- !u!114 &1033439715
 MonoBehaviour:
@@ -3787,7 +3787,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -8.522802, y: -1.4263763}
+  m_Offset: {x: -8.522802, y: -1.3878978}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3797,7 +3797,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.2263985, y: 2.1770658}
+  m_Size: {x: 3.0211792, y: 1.5870621}
   m_EdgeRadius: 0
 --- !u!114 &1548593799
 MonoBehaviour:
@@ -4197,7 +4197,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 1.3090494, y: 6.7169642}
+  m_Offset: {x: 1.3090494, y: 6.845226}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -4207,7 +4207,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.2373662, y: 1.6877146}
+  m_Size: {x: 1.2373662, y: 1.4311914}
   m_EdgeRadius: 0
 --- !u!114 &1773659712
 MonoBehaviour:
