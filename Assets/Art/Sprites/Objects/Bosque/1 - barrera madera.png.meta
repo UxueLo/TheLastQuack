@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 4de21c64a4f527d4da08345b5929c7da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1636117370783409740
+    second: 1 - barrera madera_0
+  - first:
+      213: 5242958437706872338
+    second: 1 - barrera madera_1
+  - first:
+      213: 4887404402987014734
+    second: 1 - barrera madera_2
+  - first:
+      213: 8890387164947550662
+    second: 1 - barrera madera_3
+  - first:
+      213: -3890649866001052850
+    second: 1 - barrera madera_4
+  - first:
+      213: -6735820545375519241
+    second: 1 - barrera madera_5
+  - first:
+      213: 2728298788299126213
+    second: 1 - barrera madera_6
+  - first:
+      213: -8982474515012599482
+    second: 1 - barrera madera_7
+  - first:
+      213: -1970061398399261614
+    second: 1 - barrera madera_8
+  - first:
+      213: 3502248557901228177
+    second: 1 - barrera madera_9
+  - first:
+      213: -3520443690643007427
+    second: 1 - barrera madera_10
+  - first:
+      213: -1343969431809772404
+    second: 1 - barrera madera_11
+  - first:
+      213: 1168198125090909317
+    second: 1 - barrera madera_12
+  - first:
+      213: -3219557014028485079
+    second: 1 - barrera madera_13
+  - first:
+      213: 7567810193971275505
+    second: 1 - barrera madera_14
+  - first:
+      213: -106717411575457399
+    second: 1 - barrera madera_15
+  - first:
+      213: -2098133749761578021
+    second: 1 - barrera madera_16
+  - first:
+      213: 2040790831231222136
+    second: 1 - barrera madera_17
+  - first:
+      213: 2854531311614459419
+    second: 1 - barrera madera_18
+  - first:
+      213: 5627790222587610206
+    second: 1 - barrera madera_19
+  - first:
+      213: 1697321917851403358
+    second: 1 - barrera madera_20
+  - first:
+      213: 6574095474831378711
+    second: 1 - barrera madera_21
+  - first:
+      213: -5325808399934499322
+    second: 1 - barrera madera_22
+  - first:
+      213: 4821828507010201472
+    second: 1 - barrera madera_23
+  - first:
+      213: -6101233169688448528
+    second: 1 - barrera madera_24
+  - first:
+      213: 5518164995516545107
+    second: 1 - barrera madera_25
+  - first:
+      213: 186196265406206027
+    second: 1 - barrera madera_26
+  - first:
+      213: 7026310422268971188
+    second: 1 - barrera madera_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1 - barrera madera_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9db977be75b49e0800000000000000
+      internalID: -1636117370783409740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b7a3bbeab2c840800000000000000
+      internalID: 5242958437706872338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a98b1f86c83d340800000000000000
+      internalID: 4887404402987014734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11462f500016b70800000000000000
+      internalID: 8890387164947550662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b06977f82a10ac0800000000000000
+      internalID: -3890649866001052850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 390
+        width: 57
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3d12e6ee8582a0800000000000000
+      internalID: -6735820545375519241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 515
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b2b5fa4ddcd520800000000000000
+      internalID: 2728298788299126213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 510
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641cca01507d75380800000000000000
+      internalID: -8982474515012599482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 501
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e3b2989fe8a4e0800000000000000
+      internalID: -1970061398399261614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 467
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a3d8f18c7a9030800000000000000
+      internalID: 3502248557901228177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38557f8d1fd42fc0800000000000000
+      internalID: -3520443690643007427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84bef32ce2495de0800000000000000
+      internalID: -1343969431809772404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c22516106463010800000000000000
+      internalID: 1168198125090909317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef6b424f5d153d0800000000000000
+      internalID: -3219557014028485079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6ec338643460960800000000000000
+      internalID: 7567810193971275505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 408
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98912bf541dd48ef0800000000000000
+      internalID: -106717411575457399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 373
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe332987ee1e2e0800000000000000
+      internalID: -2098133749761578021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 280
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871496cc278525c10800000000000000
+      internalID: 2040790831231222136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 280
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e720d9a155d9720800000000000000
+      internalID: 2854531311614459419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 318
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5440cfd36de91e40800000000000000
+      internalID: 5627790222587610206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_20
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 281
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54840f9a491e8710800000000000000
+      internalID: 1697321917851403358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 187
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c3d8d001eb3b50800000000000000
+      internalID: 6574095474831378711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 187
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606dc144a7de616b0800000000000000
+      internalID: -5325808399934499322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 233
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f130ea739ae240800000000000000
+      internalID: 4821828507010201472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_24
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 242
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1b3e402c0145ba0800000000000000
+      internalID: -6101233169688448528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_25
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 223
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35832c1b3d5749c40800000000000000
+      internalID: 5518164995516545107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b409a025480859200800000000000000
+      internalID: 186196265406206027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 - barrera madera_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b887f02a18728160800000000000000
+      internalID: 7026310422268971188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 311cf1eb14bccd84894f3c126d74be62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1 - barrera madera_0: -1636117370783409740
+      1 - barrera madera_1: 5242958437706872338
+      1 - barrera madera_10: -3520443690643007427
+      1 - barrera madera_11: -1343969431809772404
+      1 - barrera madera_12: 1168198125090909317
+      1 - barrera madera_13: -3219557014028485079
+      1 - barrera madera_14: 7567810193971275505
+      1 - barrera madera_15: -106717411575457399
+      1 - barrera madera_16: -2098133749761578021
+      1 - barrera madera_17: 2040790831231222136
+      1 - barrera madera_18: 2854531311614459419
+      1 - barrera madera_19: 5627790222587610206
+      1 - barrera madera_2: 4887404402987014734
+      1 - barrera madera_20: 1697321917851403358
+      1 - barrera madera_21: 6574095474831378711
+      1 - barrera madera_22: -5325808399934499322
+      1 - barrera madera_23: 4821828507010201472
+      1 - barrera madera_24: -6101233169688448528
+      1 - barrera madera_25: 5518164995516545107
+      1 - barrera madera_26: 186196265406206027
+      1 - barrera madera_27: 7026310422268971188
+      1 - barrera madera_3: 8890387164947550662
+      1 - barrera madera_4: -3890649866001052850
+      1 - barrera madera_5: -6735820545375519241
+      1 - barrera madera_6: 2728298788299126213
+      1 - barrera madera_7: -8982474515012599482
+      1 - barrera madera_8: -1970061398399261614
+      1 - barrera madera_9: 3502248557901228177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
