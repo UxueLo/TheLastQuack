@@ -29,8 +29,7 @@ public class EnemyController : MonoBehaviour
             return;
         }
            float distance = Vector2.Distance(transform.position, target.position); //distancia con el jugador
-           agent.SetDestination(target.position);
-
+           
            if (distance > detectionRange)
            {
                 return; //no hace nada
@@ -39,6 +38,10 @@ public class EnemyController : MonoBehaviour
            {
                 if (distance <= attackRange){
                     attackPlayer(); // ataca al jugador
+                    agent.ResetPath(); //detenemos al agente para que no empuje
+                } 
+                else{
+                    agent.SetDestination(target.position);
                 }
                 return;
            }
