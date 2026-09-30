@@ -482,6 +482,7 @@ GameObject:
   - component: {fileID: 141476555}
   - component: {fileID: 141476554}
   - component: {fileID: 141476556}
+  - component: {fileID: 141476557}
   m_Layer: 0
   m_Name: Valla madera drch
   m_TagString: Untagged
@@ -794,6 +795,22 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.4925945, y: 14.974662}
   m_EdgeRadius: 0
+--- !u!114 &141476557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141476552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9809bf1345abc5648af68b3a82653f08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Components.NavMeshModifier
+  m_OverrideArea: 1
+  m_Area: 1
+  m_IgnoreFromBuild: 0
+  m_AffectedAgents: ffffffffi
 --- !u!1 &160554569
 GameObject:
   m_ObjectHideFlags: 0
@@ -1115,7 +1132,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 246386632}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -1268,8 +1285,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   target: {fileID: 627477958}
-  moveSpeed: 3
-  detectionRange: 6
+  moveSpeed: 2
+  detectionRange: 7
   attackDamage: 10
   attackInterval: 1.5
   attackRange: 1.5
@@ -2541,6 +2558,7 @@ GameObject:
   - component: {fileID: 884581355}
   - component: {fileID: 884581354}
   - component: {fileID: 884581356}
+  - component: {fileID: 884581357}
   m_Layer: 0
   m_Name: Valla madera izq
   m_TagString: Untagged
@@ -2803,6 +2821,22 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.3920355, y: 12.020776}
   m_EdgeRadius: 0
+--- !u!114 &884581357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 884581352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9809bf1345abc5648af68b3a82653f08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: NavMeshPlus::NavMeshPlus.Components.NavMeshModifier
+  m_OverrideArea: 1
+  m_Area: 1
+  m_IgnoreFromBuild: 0
+  m_AffectedAgents: ffffffffi
 --- !u!1 &942456516
 GameObject:
   m_ObjectHideFlags: 0
