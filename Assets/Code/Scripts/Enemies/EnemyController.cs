@@ -26,7 +26,7 @@ public class EnemyController : MonoBehaviour
         if (attackCoolDown > 0)
         {
             attackCoolDown -= Time.deltaTime; //actualizamos la cuenta atras
-            return;
+            //return;
         }
            float distance = Vector2.Distance(transform.position, target.position); //distancia con el jugador
            
