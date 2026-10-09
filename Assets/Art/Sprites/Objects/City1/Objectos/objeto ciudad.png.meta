@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 6da8838eb6f649b458c477f4cfc2d328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6461535378352569606
+    second: objeto ciudad_0
+  - first:
+      213: -6220849307860737727
+    second: objeto ciudad_1
+  - first:
+      213: -4990770980343158575
+    second: objeto ciudad_2
+  - first:
+      213: 9157324615457735122
+    second: objeto ciudad_3
+  - first:
+      213: -1300665806473893983
+    second: objeto ciudad_4
+  - first:
+      213: -3947204714964498789
+    second: objeto ciudad_5
+  - first:
+      213: -4939263567716179680
+    second: objeto ciudad_6
+  - first:
+      213: 2761326152292322677
+    second: objeto ciudad_7
+  - first:
+      213: 6029306130063651638
+    second: objeto ciudad_8
+  - first:
+      213: 8005542105248772933
+    second: objeto ciudad_9
+  - first:
+      213: 2860239604762596040
+    second: objeto ciudad_10
+  - first:
+      213: 783863291304548602
+    second: objeto ciudad_11
+  - first:
+      213: 94352193413648947
+    second: objeto ciudad_12
+  - first:
+      213: -5997419453074733958
+    second: objeto ciudad_13
+  - first:
+      213: -5944129888370954752
+    second: objeto ciudad_14
+  - first:
+      213: -901101741947937029
+    second: objeto ciudad_15
+  - first:
+      213: -8394330741179431458
+    second: objeto ciudad_16
+  - first:
+      213: 2480056446753112782
+    second: objeto ciudad_17
+  - first:
+      213: -7101279818133518888
+    second: objeto ciudad_18
+  - first:
+      213: -719829622917975500
+    second: objeto ciudad_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objeto ciudad_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af20daddec30456a0800000000000000
+      internalID: -6461535378352569606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 467
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141e9b3938a1ba9a0800000000000000
+      internalID: -6220849307860737727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d861515c383dbab0800000000000000
+      internalID: -4990770980343158575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 471
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18c4d583a551f70800000000000000
+      internalID: 9157324615457735122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 471
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a760a9175b13fde0800000000000000
+      internalID: -1300665806473893983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b964bc49936b839c0800000000000000
+      internalID: -3947204714964498789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021af3a54f5347bb0800000000000000
+      internalID: -4939263567716179680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 467
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d41606183325620800000000000000
+      internalID: 2761326152292322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 467
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633778c0bf56ca350800000000000000
+      internalID: 6029306130063651638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 466
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54339c92126691f60800000000000000
+      internalID: 8005542105248772933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d06e24cc91b720800000000000000
+      internalID: 2860239604762596040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 370
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af81da6a287d0ea00800000000000000
+      internalID: 783863291304548602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332133ce1d43f4100800000000000000
+      internalID: 94352193413648947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 368
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74867a78c2e4cca0800000000000000
+      internalID: -5997419453074733958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 376
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eedd02c55328da0800000000000000
+      internalID: -5944129888370954752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe15bc6db4ae73f0800000000000000
+      internalID: -901101741947937029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5cbdc7aa8518b80800000000000000
+      internalID: -8394330741179431458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec203abc23eea6220800000000000000
+      internalID: 2480056446753112782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5408d21af237d90800000000000000
+      internalID: -7101279818133518888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objeto ciudad_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 373
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432bb2395c6a206f0800000000000000
+      internalID: -719829622917975500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff917e4d4e623444a82e1a76bfe9e111
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      objeto ciudad_0: -6461535378352569606
+      objeto ciudad_1: -6220849307860737727
+      objeto ciudad_10: 2860239604762596040
+      objeto ciudad_11: 783863291304548602
+      objeto ciudad_12: 94352193413648947
+      objeto ciudad_13: -5997419453074733958
+      objeto ciudad_14: -5944129888370954752
+      objeto ciudad_15: -901101741947937029
+      objeto ciudad_16: -8394330741179431458
+      objeto ciudad_17: 2480056446753112782
+      objeto ciudad_18: -7101279818133518888
+      objeto ciudad_19: -719829622917975500
+      objeto ciudad_2: -4990770980343158575
+      objeto ciudad_20: 619255814
+      objeto ciudad_3: 9157324615457735122
+      objeto ciudad_4: -1300665806473893983
+      objeto ciudad_5: -3947204714964498789
+      objeto ciudad_6: -4939263567716179680
+      objeto ciudad_7: 2761326152292322677
+      objeto ciudad_8: 6029306130063651638
+      objeto ciudad_9: 8005542105248772933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
